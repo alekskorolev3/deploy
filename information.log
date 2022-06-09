@@ -1,0 +1,618 @@
+2022-06-09 01:15:41,576 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 01:15:50,370 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:15:53,919 - INFO - basehttp - basehttp.py - "GET /task-update/13 HTTP/1.1" 200 3784
+2022-06-09 01:16:07,063 - INFO - basehttp - basehttp.py - "POST /task-update/13 HTTP/1.1" 302 0
+2022-06-09 01:16:07,087 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:16:08,478 - INFO - basehttp - basehttp.py - "GET /logout/ HTTP/1.1" 302 0
+2022-06-09 01:16:08,496 - INFO - basehttp - basehttp.py - "GET /login/ HTTP/1.1" 200 2480
+2022-06-09 01:16:09,438 - INFO - basehttp - basehttp.py - "POST /login/ HTTP/1.1" 302 0
+2022-06-09 01:16:09,448 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:16:42,590 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 01:16:45,994 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:17:01,988 - INFO - autoreload - autoreload.py - /Users/artem/PycharmProjects/djangoProject/djangoProject/settings.py changed, reloading.
+2022-06-09 01:17:02,226 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 01:20:43,271 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 01:21:22,065 - INFO - autoreload - autoreload.py - /Users/artem/PycharmProjects/djangoProject/base/views.py changed, reloading.
+2022-06-09 01:21:22,327 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 01:21:52,873 - INFO - autoreload - autoreload.py - /Users/artem/PycharmProjects/djangoProject/base/views.py changed, reloading.
+2022-06-09 01:21:53,143 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 01:22:16,186 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 01:22:24,505 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:22:25,256 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:22:25,462 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:22:25,636 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:22:25,817 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:22:26,003 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:22:26,169 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:22:27,435 - INFO - basehttp - basehttp.py - "GET /logout/ HTTP/1.1" 302 0
+2022-06-09 01:22:27,457 - INFO - basehttp - basehttp.py - "GET /login/ HTTP/1.1" 200 2480
+2022-06-09 01:22:31,393 - INFO - basehttp - basehttp.py - "POST /login/ HTTP/1.1" 302 0
+2022-06-09 01:22:31,405 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:22:59,161 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6100
+2022-06-09 01:23:24,558 - INFO - autoreload - autoreload.py - /Users/artem/PycharmProjects/djangoProject/base/views.py changed, reloading.
+2022-06-09 01:23:24,818 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 01:23:25,285 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6100
+2022-06-09 01:23:26,888 - INFO - basehttp - basehttp.py - "GET /logout/ HTTP/1.1" 302 0
+2022-06-09 01:23:26,911 - INFO - basehttp - basehttp.py - "GET /login/ HTTP/1.1" 200 2480
+2022-06-09 01:23:30,778 - INFO - basehttp - basehttp.py - "GET /admin/ HTTP/1.1" 302 0
+2022-06-09 01:23:30,800 - INFO - basehttp - basehttp.py - "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+2022-06-09 01:23:30,881 - INFO - basehttp - basehttp.py - "GET /static/admin/css/login.css HTTP/1.1" 304 0
+2022-06-09 01:23:32,343 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:44,354 - INFO - autoreload - autoreload.py - /Users/artem/PycharmProjects/djangoProject/base/views.py changed, reloading.
+2022-06-09 01:23:44,629 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 01:23:45,408 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:45,562 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:45,717 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:45,963 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:46,140 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:46,307 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:46,461 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:46,622 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:46,786 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:46,939 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:47,099 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:47,213 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:47,367 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:47,507 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:47,641 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:47,796 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:47,941 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:48,061 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:48,216 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:48,361 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:48,507 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:48,644 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:48,790 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:48,927 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:49,073 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:49,228 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:49,373 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:49,520 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:49,665 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:49,792 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:49,964 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:50,108 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:50,274 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:50,415 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:50,655 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:51,883 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:52,034 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:52,173 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:52,308 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:52,455 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:52,600 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:52,747 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:52,890 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:53,045 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:53,182 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:53,324 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:53,474 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:53,628 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:53,756 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:53,903 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:54,040 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:54,177 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:54,314 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:54,459 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:54,598 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:54,753 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:54,873 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:55,007 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:55,148 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:55,293 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:55,480 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:56,065 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:56,232 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:56,386 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:56,547 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:56,708 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:56,895 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:23:57,015 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:17,945 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:18,219 - INFO - autoreload - autoreload.py - /Users/artem/PycharmProjects/djangoProject/djangoProject/settings.py changed, reloading.
+2022-06-09 01:24:18,488 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 01:24:20,134 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:20,696 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:21,264 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:21,877 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:24,584 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:24,977 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:25,148 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:25,317 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:25,496 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:25,673 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:25,936 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:26,093 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:26,264 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:26,450 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:26,621 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:26,781 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:26,934 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:28,223 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:29,418 - INFO - basehttp - basehttp.py - "GET /task/13 HTTP/1.1" 302 0
+2022-06-09 01:24:29,442 - INFO - basehttp - basehttp.py - "GET /login/?next=/task/13 HTTP/1.1" 200 2480
+2022-06-09 01:24:31,890 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:32,333 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:32,510 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:32,690 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:32,871 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:33,083 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:33,295 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:33,542 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:33,760 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:33,982 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:34,177 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:34,373 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:34,540 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:34,718 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:34,919 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:35,141 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:35,339 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:35,518 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:35,690 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:35,850 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:36,010 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:36,172 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:36,336 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:36,506 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:36,633 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:36,796 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:37,124 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:24:37,508 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:29,905 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 01:26:36,897 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:37,465 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:37,977 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:38,392 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:38,561 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:38,724 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:38,874 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:39,039 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:39,182 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:39,322 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:39,474 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:39,626 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:41,167 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:41,645 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:42,082 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:42,365 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:42,565 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:42,811 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:43,063 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:43,260 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:43,479 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:50,349 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:54,457 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:55,247 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:55,951 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:56,671 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:57,316 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:57,868 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:58,170 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:58,388 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:58,590 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:58,790 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:59,006 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:59,206 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:59,374 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:59,561 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:59,770 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:26:59,932 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6056
+2022-06-09 01:33:13,664 - INFO - basehttp - basehttp.py - "GET /login/ HTTP/1.1" 200 2480
+2022-06-09 01:33:15,192 - INFO - basehttp - basehttp.py - "POST /login/ HTTP/1.1" 302 0
+2022-06-09 01:33:15,209 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:38:55,294 - INFO - autoreload - autoreload.py - /Users/artem/PycharmProjects/djangoProject/base/views.py changed, reloading.
+2022-06-09 01:38:55,565 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 01:39:28,108 - INFO - autoreload - autoreload.py - /Users/artem/PycharmProjects/djangoProject/base/views.py changed, reloading.
+2022-06-09 01:39:28,364 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 01:39:30,436 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:39:32,132 - ERROR - log - log.py - Internal Server Error: /all-tasks/
+Traceback (most recent call last):
+  File "/Users/artem/PycharmProjects/djangoProject/venv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/artem/PycharmProjects/djangoProject/venv/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/artem/PycharmProjects/djangoProject/venv/lib/python3.9/site-packages/django/views/generic/base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/artem/PycharmProjects/djangoProject/venv/lib/python3.9/site-packages/django/views/generic/base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/artem/PycharmProjects/djangoProject/venv/lib/python3.9/site-packages/django/views/generic/list.py", line 154, in get
+    self.object_list = self.get_queryset()
+  File "/Users/artem/PycharmProjects/djangoProject/venv/lib/python3.9/site-packages/django/views/generic/list.py", line 34, in get_queryset
+    queryset = self.model._default_manager.all()
+AttributeError: 'QuerySet' object has no attribute '_default_manager'
+2022-06-09 01:39:32,133 - ERROR - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 500 73567
+2022-06-09 01:39:46,835 - INFO - autoreload - autoreload.py - /Users/artem/PycharmProjects/djangoProject/base/views.py changed, reloading.
+2022-06-09 01:39:47,063 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 01:39:53,150 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6100
+2022-06-09 01:39:55,555 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6100
+2022-06-09 01:40:19,678 - INFO - autoreload - autoreload.py - /Users/artem/PycharmProjects/djangoProject/base/views.py changed, reloading.
+2022-06-09 01:40:19,948 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 01:40:22,887 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6100
+2022-06-09 01:40:24,540 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 6100
+2022-06-09 01:40:27,101 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:40:27,679 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:40:27,841 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:40:28,009 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:40:28,130 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:40:28,272 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:40:28,398 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:40:28,519 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:40:28,765 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:40:28,933 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:40:29,027 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:40:29,182 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:40:29,356 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:40:29,491 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:40:29,633 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:40:29,741 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:40:29,883 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:40:30,025 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:40:30,152 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:40:30,312 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:40:37,414 - INFO - autoreload - autoreload.py - /Users/artem/PycharmProjects/djangoProject/base/views.py changed, reloading.
+2022-06-09 01:40:37,648 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 01:40:42,507 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4971
+2022-06-09 01:40:43,397 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4971
+2022-06-09 01:40:44,595 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4971
+2022-06-09 01:41:09,110 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4971
+2022-06-09 01:41:09,214 - INFO - autoreload - autoreload.py - /Users/artem/PycharmProjects/djangoProject/base/views.py changed, reloading.
+2022-06-09 01:41:09,478 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 01:41:09,968 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:41:10,636 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:41:11,049 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:41:11,214 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:41:11,393 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:41:11,541 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:41:11,841 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:41:30,891 - INFO - autoreload - autoreload.py - /Users/artem/PycharmProjects/djangoProject/base/views.py changed, reloading.
+2022-06-09 01:41:31,184 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 01:41:32,283 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4983
+2022-06-09 01:41:33,373 - INFO - basehttp - basehttp.py - "GET /task-create/ HTTP/1.1" 200 3041
+2022-06-09 01:41:37,201 - INFO - basehttp - basehttp.py - "POST /task-create/ HTTP/1.1" 302 0
+2022-06-09 01:41:37,219 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 5816
+2022-06-09 01:44:08,831 - INFO - autoreload - autoreload.py - /Users/artem/PycharmProjects/djangoProject/djangoProject/settings.py changed, reloading.
+2022-06-09 01:44:50,917 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 01:44:56,834 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 5816
+2022-06-09 01:44:57,688 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 5816
+2022-06-09 01:44:58,232 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 5816
+2022-06-09 01:44:58,524 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 5816
+2022-06-09 01:44:58,673 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 5816
+2022-06-09 01:44:58,835 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 5816
+2022-06-09 01:44:58,948 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 5816
+2022-06-09 02:10:27,722 - INFO - basehttp - basehttp.py - "GET /logout/ HTTP/1.1" 302 0
+2022-06-09 02:10:27,740 - INFO - basehttp - basehttp.py - "GET /login/ HTTP/1.1" 200 2480
+2022-06-09 02:10:30,840 - INFO - basehttp - basehttp.py - "GET /admin/ HTTP/1.1" 302 0
+2022-06-09 02:10:30,888 - INFO - basehttp - basehttp.py - "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+2022-06-09 02:10:31,340 - INFO - basehttp - basehttp.py - "GET /admin/ HTTP/1.1" 302 0
+2022-06-09 02:10:31,349 - INFO - basehttp - basehttp.py - "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+2022-06-09 02:16:23,311 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 02:17:03,008 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 02:17:13,844 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 02:20:46,443 - INFO - autoreload - autoreload.py - /code/djangoProject/settings.py changed, reloading.
+2022-06-09 02:20:46,995 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 02:22:47,160 - INFO - autoreload - autoreload.py - /code/djangoProject/settings.py changed, reloading.
+2022-06-09 02:22:47,687 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 02:23:03,931 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 02:24:34,647 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 02:26:02,891 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 02:26:09,739 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 02:27:04,719 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 02:27:53,482 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 02:41:28,696 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 02:50:30,908 - INFO - autoreload - autoreload.py - /code/djangoProject/settings.py changed, reloading.
+2022-06-09 02:50:31,406 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 02:51:04,416 - INFO - autoreload - autoreload.py - /code/djangoProject/settings.py changed, reloading.
+2022-06-09 02:51:05,007 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 02:54:47,767 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 02:56:37,514 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 02:56:50,675 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 03:01:31,453 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 03:01:37,506 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 302 0
+2022-06-09 03:01:37,527 - INFO - basehttp - basehttp.py - "GET /login/?next=/ HTTP/1.1" 200 2480
+2022-06-09 03:01:37,929 - WARNING - log - log.py - Not Found: /favicon.ico
+2022-06-09 03:01:37,932 - WARNING - basehttp - basehttp.py - "GET /favicon.ico HTTP/1.1" 404 179
+2022-06-09 03:01:40,410 - INFO - basehttp - basehttp.py - "GET /register/ HTTP/1.1" 200 3193
+2022-06-09 03:01:46,336 - ERROR - log - log.py - Internal Server Error: /register/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.UndefinedTable: relation "auth_user" does not exist
+LINE 1: SELECT (1) AS "a" FROM "auth_user" WHERE "auth_user"."userna...
+                               ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/edit.py", line 152, in post
+    if form.is_valid():
+  File "/usr/local/lib/python3.8/site-packages/django/forms/forms.py", line 205, in is_valid
+    return self.is_bound and not self.errors
+  File "/usr/local/lib/python3.8/site-packages/django/forms/forms.py", line 200, in errors
+    self.full_clean()
+  File "/usr/local/lib/python3.8/site-packages/django/forms/forms.py", line 435, in full_clean
+    self._post_clean()
+  File "/usr/local/lib/python3.8/site-packages/django/contrib/auth/forms.py", line 129, in _post_clean
+    super()._post_clean()
+  File "/usr/local/lib/python3.8/site-packages/django/forms/models.py", line 498, in _post_clean
+    self.validate_unique()
+  File "/usr/local/lib/python3.8/site-packages/django/forms/models.py", line 507, in validate_unique
+    self.instance.validate_unique(exclude=exclude)
+  File "/usr/local/lib/python3.8/site-packages/django/db/models/base.py", line 1173, in validate_unique
+    errors = self._perform_unique_checks(unique_checks)
+  File "/usr/local/lib/python3.8/site-packages/django/db/models/base.py", line 1280, in _perform_unique_checks
+    if qs.exists():
+  File "/usr/local/lib/python3.8/site-packages/django/db/models/query.py", line 892, in exists
+    return self.query.has_results(using=self.db)
+  File "/usr/local/lib/python3.8/site-packages/django/db/models/sql/query.py", line 589, in has_results
+    return compiler.has_results()
+  File "/usr/local/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1329, in has_results
+    return bool(self.execute_sql(SINGLE))
+  File "/usr/local/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1361, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.8/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/usr/local/lib/python3.8/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/local/lib/python3.8/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.8/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/local/lib/python3.8/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.ProgrammingError: relation "auth_user" does not exist
+LINE 1: SELECT (1) AS "a" FROM "auth_user" WHERE "auth_user"."userna...
+                               ^
+
+2022-06-09 03:01:46,351 - ERROR - basehttp - basehttp.py - "POST /register/ HTTP/1.1" 500 145
+2022-06-09 03:02:23,133 - INFO - autoreload - autoreload.py - /code/djangoProject/settings.py changed, reloading.
+2022-06-09 03:02:23,685 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 03:02:36,348 - ERROR - log - log.py - Internal Server Error: /register/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.UndefinedTable: relation "auth_user" does not exist
+LINE 1: SELECT (1) AS "a" FROM "auth_user" WHERE "auth_user"."userna...
+                               ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/edit.py", line 152, in post
+    if form.is_valid():
+  File "/usr/local/lib/python3.8/site-packages/django/forms/forms.py", line 205, in is_valid
+    return self.is_bound and not self.errors
+  File "/usr/local/lib/python3.8/site-packages/django/forms/forms.py", line 200, in errors
+    self.full_clean()
+  File "/usr/local/lib/python3.8/site-packages/django/forms/forms.py", line 435, in full_clean
+    self._post_clean()
+  File "/usr/local/lib/python3.8/site-packages/django/contrib/auth/forms.py", line 129, in _post_clean
+    super()._post_clean()
+  File "/usr/local/lib/python3.8/site-packages/django/forms/models.py", line 498, in _post_clean
+    self.validate_unique()
+  File "/usr/local/lib/python3.8/site-packages/django/forms/models.py", line 507, in validate_unique
+    self.instance.validate_unique(exclude=exclude)
+  File "/usr/local/lib/python3.8/site-packages/django/db/models/base.py", line 1173, in validate_unique
+    errors = self._perform_unique_checks(unique_checks)
+  File "/usr/local/lib/python3.8/site-packages/django/db/models/base.py", line 1280, in _perform_unique_checks
+    if qs.exists():
+  File "/usr/local/lib/python3.8/site-packages/django/db/models/query.py", line 892, in exists
+    return self.query.has_results(using=self.db)
+  File "/usr/local/lib/python3.8/site-packages/django/db/models/sql/query.py", line 589, in has_results
+    return compiler.has_results()
+  File "/usr/local/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1329, in has_results
+    return bool(self.execute_sql(SINGLE))
+  File "/usr/local/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1361, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.8/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/usr/local/lib/python3.8/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/local/lib/python3.8/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.8/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/local/lib/python3.8/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.ProgrammingError: relation "auth_user" does not exist
+LINE 1: SELECT (1) AS "a" FROM "auth_user" WHERE "auth_user"."userna...
+                               ^
+
+2022-06-09 03:02:36,362 - ERROR - basehttp - basehttp.py - "POST /register/ HTTP/1.1" 500 145
+2022-06-09 03:02:44,473 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 302 0
+2022-06-09 03:02:44,510 - INFO - basehttp - basehttp.py - "GET /login/?next=/ HTTP/1.1" 200 2480
+2022-06-09 03:02:46,321 - INFO - basehttp - basehttp.py - "GET /register/ HTTP/1.1" 200 3193
+2022-06-09 03:02:55,898 - ERROR - log - log.py - Internal Server Error: /register/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.UndefinedTable: relation "auth_user" does not exist
+LINE 1: SELECT (1) AS "a" FROM "auth_user" WHERE "auth_user"."userna...
+                               ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/edit.py", line 152, in post
+    if form.is_valid():
+  File "/usr/local/lib/python3.8/site-packages/django/forms/forms.py", line 205, in is_valid
+    return self.is_bound and not self.errors
+  File "/usr/local/lib/python3.8/site-packages/django/forms/forms.py", line 200, in errors
+    self.full_clean()
+  File "/usr/local/lib/python3.8/site-packages/django/forms/forms.py", line 435, in full_clean
+    self._post_clean()
+  File "/usr/local/lib/python3.8/site-packages/django/contrib/auth/forms.py", line 129, in _post_clean
+    super()._post_clean()
+  File "/usr/local/lib/python3.8/site-packages/django/forms/models.py", line 498, in _post_clean
+    self.validate_unique()
+  File "/usr/local/lib/python3.8/site-packages/django/forms/models.py", line 507, in validate_unique
+    self.instance.validate_unique(exclude=exclude)
+  File "/usr/local/lib/python3.8/site-packages/django/db/models/base.py", line 1173, in validate_unique
+    errors = self._perform_unique_checks(unique_checks)
+  File "/usr/local/lib/python3.8/site-packages/django/db/models/base.py", line 1280, in _perform_unique_checks
+    if qs.exists():
+  File "/usr/local/lib/python3.8/site-packages/django/db/models/query.py", line 892, in exists
+    return self.query.has_results(using=self.db)
+  File "/usr/local/lib/python3.8/site-packages/django/db/models/sql/query.py", line 589, in has_results
+    return compiler.has_results()
+  File "/usr/local/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1329, in has_results
+    return bool(self.execute_sql(SINGLE))
+  File "/usr/local/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1361, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.8/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/usr/local/lib/python3.8/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/local/lib/python3.8/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.8/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/local/lib/python3.8/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.ProgrammingError: relation "auth_user" does not exist
+LINE 1: SELECT (1) AS "a" FROM "auth_user" WHERE "auth_user"."userna...
+                               ^
+
+2022-06-09 03:02:55,905 - ERROR - basehttp - basehttp.py - "POST /register/ HTTP/1.1" 500 145
+2022-06-09 03:03:18,514 - INFO - autoreload - autoreload.py - /code/djangoProject/settings.py changed, reloading.
+2022-06-09 03:03:19,043 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 03:06:41,716 - INFO - basehttp - basehttp.py - "POST /register/ HTTP/1.1" 302 0
+2022-06-09 03:06:41,768 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 2447
+2022-06-09 03:06:44,805 - INFO - basehttp - basehttp.py - "GET /logout/ HTTP/1.1" 302 0
+2022-06-09 03:06:44,822 - INFO - basehttp - basehttp.py - "GET /login/ HTTP/1.1" 200 2480
+2022-06-09 03:06:49,625 - INFO - basehttp - basehttp.py - "POST /login/ HTTP/1.1" 200 2637
+2022-06-09 03:06:56,345 - INFO - basehttp - basehttp.py - "POST /login/ HTTP/1.1" 302 0
+2022-06-09 03:06:56,373 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 2447
+2022-06-09 03:06:58,829 - INFO - basehttp - basehttp.py - "GET /task-create/ HTTP/1.1" 200 3041
+2022-06-09 03:07:04,826 - INFO - basehttp - basehttp.py - "POST /task-create/ HTTP/1.1" 302 0
+2022-06-09 03:07:04,854 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 3277
+2022-06-09 03:08:16,407 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 3277
+2022-06-09 03:08:18,526 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 3277
+2022-06-09 03:08:20,887 - INFO - basehttp - basehttp.py - "GET /logout/ HTTP/1.1" 302 0
+2022-06-09 03:08:20,897 - INFO - basehttp - basehttp.py - "GET /login/ HTTP/1.1" 200 2480
+2022-06-09 03:08:23,493 - INFO - basehttp - basehttp.py - "POST /login/ HTTP/1.1" 302 0
+2022-06-09 03:08:23,520 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 3277
+2022-06-09 03:08:25,899 - INFO - basehttp - basehttp.py - "GET /logout/ HTTP/1.1" 302 0
+2022-06-09 03:08:25,906 - INFO - basehttp - basehttp.py - "GET /login/ HTTP/1.1" 200 2480
+2022-06-09 03:08:26,778 - INFO - basehttp - basehttp.py - "GET /register/ HTTP/1.1" 200 3193
+2022-06-09 03:08:34,571 - INFO - basehttp - basehttp.py - "POST /register/ HTTP/1.1" 200 3388
+2022-06-09 03:08:45,139 - INFO - basehttp - basehttp.py - "POST /register/ HTTP/1.1" 302 0
+2022-06-09 03:08:45,164 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 3276
+2022-06-09 03:08:52,397 - INFO - basehttp - basehttp.py - "GET /task-update/1 HTTP/1.1" 200 3692
+2022-06-09 03:08:57,564 - INFO - basehttp - basehttp.py - "POST /task-update/1 HTTP/1.1" 302 0
+2022-06-09 03:08:57,597 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 3276
+2022-06-09 03:09:00,115 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 2773
+2022-06-09 03:11:09,842 - INFO - autoreload - autoreload.py - /code/base/views.py changed, reloading.
+2022-06-09 03:11:10,424 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 03:11:54,612 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 3276
+2022-06-09 03:11:56,477 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 3276
+2022-06-09 03:11:58,213 - INFO - basehttp - basehttp.py - "GET /task-create/ HTTP/1.1" 200 3041
+2022-06-09 03:12:09,077 - INFO - basehttp - basehttp.py - "POST /task-create/ HTTP/1.1" 302 0
+2022-06-09 03:12:09,104 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4108
+2022-06-09 03:12:11,133 - INFO - basehttp - basehttp.py - "GET /task-create/ HTTP/1.1" 200 3041
+2022-06-09 03:12:18,725 - INFO - basehttp - basehttp.py - "POST /task-create/ HTTP/1.1" 302 0
+2022-06-09 03:12:18,758 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4938
+2022-06-09 03:12:20,430 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 3711
+2022-06-09 03:12:22,717 - INFO - basehttp - basehttp.py - "GET /logout/ HTTP/1.1" 302 0
+2022-06-09 03:12:22,728 - INFO - basehttp - basehttp.py - "GET /login/ HTTP/1.1" 200 2480
+2022-06-09 03:12:25,576 - INFO - basehttp - basehttp.py - "POST /login/ HTTP/1.1" 302 0
+2022-06-09 03:12:25,600 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 2447
+2022-06-09 03:12:26,741 - INFO - basehttp - basehttp.py - "GET /task-create/ HTTP/1.1" 200 3041
+2022-06-09 03:12:32,699 - INFO - basehttp - basehttp.py - "POST /task-create/ HTTP/1.1" 302 0
+2022-06-09 03:12:32,731 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 3274
+2022-06-09 03:12:34,192 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 4176
+2022-06-09 03:12:37,512 - INFO - basehttp - basehttp.py - "GET /logout/ HTTP/1.1" 302 0
+2022-06-09 03:12:37,521 - INFO - basehttp - basehttp.py - "GET /login/ HTTP/1.1" 200 2480
+2022-06-09 03:12:49,224 - INFO - basehttp - basehttp.py - "POST /login/ HTTP/1.1" 302 0
+2022-06-09 03:12:49,247 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4938
+2022-06-09 03:12:54,355 - INFO - basehttp - basehttp.py - "GET /task-update/3 HTTP/1.1" 200 3693
+2022-06-09 03:12:58,892 - INFO - basehttp - basehttp.py - "GET /task-update/3 HTTP/1.1" 200 3693
+2022-06-09 03:42:39,860 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4938
+2022-06-09 03:42:42,202 - INFO - basehttp - basehttp.py - "GET /logout/ HTTP/1.1" 302 0
+2022-06-09 03:42:42,210 - INFO - basehttp - basehttp.py - "GET /login/ HTTP/1.1" 200 2480
+2022-06-09 03:42:45,922 - INFO - basehttp - basehttp.py - "POST /login/ HTTP/1.1" 302 0
+2022-06-09 03:42:45,948 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 3274
+2022-06-09 03:49:59,183 - INFO - autoreload - autoreload.py - /code/djangoProject/settings.py changed, reloading.
+2022-06-09 03:49:59,868 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 03:50:06,185 - INFO - autoreload - autoreload.py - /code/djangoProject/settings.py changed, reloading.
+2022-06-09 03:50:06,742 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 10:18:11,606 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 3274
+2022-06-09 10:18:13,559 - INFO - basehttp - basehttp.py - "GET /logout/ HTTP/1.1" 302 0
+2022-06-09 10:18:13,579 - INFO - basehttp - basehttp.py - "GET /login/ HTTP/1.1" 200 2480
+2022-06-09 10:18:16,709 - INFO - basehttp - basehttp.py - "POST /login/ HTTP/1.1" 302 0
+2022-06-09 10:18:16,739 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 3274
+2022-06-09 10:18:18,328 - INFO - basehttp - basehttp.py - "GET /task-create/ HTTP/1.1" 200 3041
+2022-06-09 10:18:23,416 - INFO - basehttp - basehttp.py - "POST /task-create/ HTTP/1.1" 302 0
+2022-06-09 10:18:23,443 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4102
+2022-06-09 10:18:24,514 - INFO - basehttp - basehttp.py - "GET /task-update/5 HTTP/1.1" 200 3689
+2022-06-09 10:19:24,848 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4102
+2022-06-09 10:19:26,377 - INFO - basehttp - basehttp.py - "GET /task-update/4 HTTP/1.1" 200 3695
+2022-06-09 10:19:28,977 - INFO - basehttp - basehttp.py - "POST /task-update/4 HTTP/1.1" 302 0
+2022-06-09 10:19:29,002 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4101
+2022-06-09 10:29:19,739 - INFO - basehttp - basehttp.py - "GET /logout/ HTTP/1.1" 302 0
+2022-06-09 10:29:19,749 - INFO - basehttp - basehttp.py - "GET /login/ HTTP/1.1" 200 2480
+2022-06-09 10:30:00,465 - INFO - basehttp - basehttp.py - "POST /login/ HTTP/1.1" 302 0
+2022-06-09 10:30:00,506 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4101
+2022-06-09 10:30:06,096 - INFO - basehttp - basehttp.py - "GET /logout/ HTTP/1.1" 302 0
+2022-06-09 10:30:06,105 - INFO - basehttp - basehttp.py - "GET /login/ HTTP/1.1" 200 2480
+2022-06-09 10:30:07,717 - INFO - basehttp - basehttp.py - "GET /register/ HTTP/1.1" 200 3193
+2022-06-09 10:30:18,891 - INFO - basehttp - basehttp.py - "POST /register/ HTTP/1.1" 302 0
+2022-06-09 10:30:18,914 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 2445
+2022-06-09 10:30:33,968 - INFO - basehttp - basehttp.py - "GET /task-create/ HTTP/1.1" 200 3041
+2022-06-09 10:30:40,300 - INFO - basehttp - basehttp.py - "POST /task-create/ HTTP/1.1" 200 3130
+2022-06-09 10:30:46,122 - INFO - basehttp - basehttp.py - "POST /task-create/ HTTP/1.1" 200 3131
+2022-06-09 10:30:52,071 - INFO - basehttp - basehttp.py - "POST /task-create/ HTTP/1.1" 200 3125
+2022-06-09 10:30:59,810 - INFO - basehttp - basehttp.py - "POST /task-create/ HTTP/1.1" 200 3132
+2022-06-09 10:31:02,923 - INFO - basehttp - basehttp.py - "POST /task-create/ HTTP/1.1" 200 3132
+2022-06-09 10:31:06,356 - INFO - basehttp - basehttp.py - "POST /task-create/ HTTP/1.1" 302 0
+2022-06-09 10:31:06,389 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 3274
+2022-06-09 10:31:15,790 - INFO - basehttp - basehttp.py - "GET /task-create/ HTTP/1.1" 200 3041
+2022-06-09 10:31:28,341 - INFO - basehttp - basehttp.py - "POST /task-create/ HTTP/1.1" 302 0
+2022-06-09 10:31:28,382 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 4102
+2022-06-09 10:31:32,667 - INFO - basehttp - basehttp.py - "GET /task-update/6 HTTP/1.1" 200 3727
+2022-06-09 10:31:43,031 - INFO - basehttp - basehttp.py - "POST /task-update/6 HTTP/1.1" 200 3782
+2022-06-09 10:31:56,319 - INFO - basehttp - basehttp.py - "POST /task-update/6 HTTP/1.1" 200 3782
+2022-06-09 10:31:58,810 - INFO - basehttp - basehttp.py - "POST /task-update/6 HTTP/1.1" 302 0
+2022-06-09 10:31:58,839 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 3273
+2022-06-09 10:32:11,081 - INFO - basehttp - basehttp.py - "GET /all-tasks/ HTTP/1.1" 200 5575
+2022-06-09 10:32:27,656 - INFO - basehttp - basehttp.py - "GET /task/6 HTTP/1.1" 200 2210
+2022-06-09 10:32:36,970 - INFO - basehttp - basehttp.py - "GET /task/4 HTTP/1.1" 200 2208
+2022-06-09 10:32:40,090 - INFO - basehttp - basehttp.py - "GET /task/7 HTTP/1.1" 200 2212
+2022-06-09 10:32:43,099 - INFO - basehttp - basehttp.py - "GET /task/1 HTTP/1.1" 200 2210
+2022-06-09 10:32:57,730 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 3273
+2022-06-09 10:32:59,664 - INFO - basehttp - basehttp.py - "GET /task-delete/7 HTTP/1.1" 200 268
+2022-06-09 10:33:03,145 - INFO - basehttp - basehttp.py - "POST /task-delete/7 HTTP/1.1" 302 0
+2022-06-09 10:33:03,175 - INFO - basehttp - basehttp.py - "GET / HTTP/1.1" 200 2445
+2022-06-09 10:34:24,397 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 10:34:41,046 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 10:47:06,821 - INFO - autoreload - autoreload.py - /code/djangoProject/settings.py changed, reloading.
+2022-06-09 10:47:07,467 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader
+2022-06-09 11:15:42,696 - INFO - autoreload - autoreload.py - /code/djangoProject/settings.py changed, reloading.
+2022-06-09 11:15:43,216 - INFO - autoreload - autoreload.py - Watching for file changes with StatReloader

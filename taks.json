@@ -1,0 +1,110 @@
+[
+  {
+    "model": "base.task",
+    "pk": 8,
+    "fields": {
+      "title": "wash the dishes",
+      "description": "1",
+      "user": 1,
+      "date": "2022-06-07",
+      "time": "21:33:51",
+      "active": false
+    }
+  },
+  {
+    "model": "base.task",
+    "pk": 9,
+    "fields": {
+      "title": "test",
+      "description": "1",
+      "user": 1,
+      "date": "2022-06-08",
+      "time": "21:32:53",
+      "active": true
+    }
+  },
+  {
+    "model": "base.task",
+    "pk": 10,
+    "fields": {
+      "title": "test2",
+      "description": "2",
+      "user": 1,
+      "date": "2022-06-08",
+      "time": "21:33:51",
+      "active": null
+    }
+  },
+  {
+    "model": "base.task",
+    "pk": 11,
+    "fields": {
+      "title": "test3",
+      "description": "teset3",
+      "user": 1,
+      "date": "2022-06-08",
+      "time": "12:00:00",
+      "active": false
+    }
+  },
+  {
+    "model": "base.task",
+    "pk": 12,
+    "fields": {
+      "title": "new task",
+      "description": "1",
+      "user": 1,
+      "date": "2022-06-08",
+      "time": "12:00:00",
+      "active": false
+    }
+  },
+  {
+    "model": "base.task",
+    "pk": 13,
+    "fields": {
+      "title": "tasktask",
+      "description": "123",
+      "user": 1,
+      "date": "2022-06-09",
+      "time": "00:00:40",
+      "active": true
+    }
+  },
+  {
+    "model": "base.task",
+    "pk": 15,
+    "fields": {
+      "title": "Дописать лабу по ИСП",
+      "description": "Мне необходимо дописать",
+      "user": 1,
+      "date": "2022-06-09",
+      "time": "12:30:00",
+      "active": false
+    }
+  },
+  {
+    "model": "base.task",
+    "pk": 16,
+    "fields": {
+      "title": "test",
+      "description": "1234",
+      "user": 1,
+      "date": "2022-06-09",
+      "time": "12:30:00",
+      "active": false
+    }
+  },
+  {
+    "model": "base.task",
+    "pk": 17,
+    "fields": {
+      "title": "123",
+      "description": "123",
+      "user": 1,
+      "date": "2022-06-09",
+      "time": "12:30:00",
+      "active": false
+    }
+  }
+]

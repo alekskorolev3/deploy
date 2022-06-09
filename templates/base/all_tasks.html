@@ -1,0 +1,19 @@
+{% extends 'base/main.html' %}
+{% block all %}
+    <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 30px">
+        <span style="font-size: 21px; font-weight: bold">Задачи</span>
+    </div>
+    {% for task in tasks %}
+        <a href="{% url 'task' task.id %}" style="text-decoration: none; color: black">
+            <div class="card-body"
+                 style="border: 1px solid rgba(0, 0, 0, 0.175); margin: 10px 5px 10px 5px; border-radius: 15px; display: flex; justify-content: space-between">
+            <span class="badge text-bg-primary">
+                {{ task.time }}
+            </span>
+                <div>
+                    {{ task.title }}
+                </div>
+            </div>
+        </a>
+    {% endfor %}
+{% endblock all %}

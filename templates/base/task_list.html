@@ -1,0 +1,51 @@
+{% extends 'base/main.html' %}
+{% block content %}
+
+    {#<h1>Task List</h1>#}
+
+
+    {#    <form action="" method="GET">#}
+    {#    <input type="text" name="search-area" value="{{ search_input }}">#}
+    {#    <input type="submit" value="Search">#}
+    {#</form>#}
+
+    <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 30px">
+        <span style="font-size: 21px; font-weight: bold">{{ request.user }}'s Задачи {{ date_now }}</span>
+        <a href="{% url 'task_create' %}" class="btn btn-primary" role="button">Добавить</a>
+    </div>
+    {% for task in tasks %}
+        {% if task.active == True %}
+            <div class="card-body"
+                 style="border: 1px solid rgba(0, 0, 0, 0.175); background-color: lightgreen; margin: 10px 5px 10px 5px; border-radius: 15px; display: flex; justify-content: space-between; align-items: center">
+            <span class="badge text-bg-primary" style="height: fit-content;">
+                {{ task.time }}
+            </span>
+                <div>
+                    <a href="{% url 'task' task.id %}" style="text-decoration: none; color: black">{{ task.title }}</a>
+                </div>
+                <div>
+                    <a href="{% url 'task_update' task.id %}" class="btn btn-outline-primary btn-sm" role="button">Изменить</a>
+                    <a href="{% url 'task_delete' task.id %}" class="btn btn-outline-primary btn-sm" role="button">Удалить</a>
+                </div>
+            </div>
+        {% else %}
+            <div class="card-body"
+                 style="border: 1px solid rgba(0, 0, 0, 0.175); background-color: lightyellow; margin: 10px 5px 10px 5px; border-radius: 15px; display: flex; justify-content: space-between; align-items: center">
+            <span class="badge text-bg-primary" style="height: fit-content;">
+                {{ task.time }}
+            </span>
+                <div>
+                    <a href="{% url 'task' task.id %}" style="text-decoration: none; color: black">{{ task.title }}</a>
+                </div>
+                <div>
+                    <a href="{% url 'task_update' task.id %}" class="btn btn-outline-primary btn-sm" role="button">Изменить</a>
+                    <a href="{% url 'task_delete' task.id %}" class="btn btn-outline-primary btn-sm" role="button">Удалить</a>
+                </div>
+            </div>
+        {% endif %}
+    {% endfor %}
+
+{% endblock content %}
+
+
+

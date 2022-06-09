@@ -1,0 +1,13 @@
+{% extends 'base/main.html' %}
+{% block content %}
+
+    <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 30px">
+        <h3>Добавить задачу</h3>
+        <a href="{% url 'tasks' %}" class="btn btn-primary" role="button">Назад</a>
+    </div>
+    <form action="" method="POST">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <input type="submit" value="Сохранить" class="btn btn-primary">
+    </form>
+{% endblock content %}

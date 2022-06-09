@@ -1,0 +1,20 @@
+[
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$320000$71XRdkmVnuKz6WODwCx3Fv$5Pw6q+kxYx/YF2I+OKmr3rgpcELljNdcDFjMhxSW1zg=",
+      "last_login": "2022-06-09T01:33:15.190Z",
+      "is_superuser": true,
+      "username": "artem",
+      "first_name": "",
+      "last_name": "",
+      "email": "alekskorolev3@gmail.com",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2022-06-07T18:58:12.669Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  }
+]
