@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-tdk@c5a@^+4k@%=nfl^ajci#kp-dzasrz*!9x+9-v-s+-k!pw3
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['0.0.0.0', '127.0.0.1', 'localhost', 'guarded-river-97360.herokuapp.com/']
+ALLOWED_HOSTS = ['0.0.0.0', '127.0.0.1', 'localhost', 'lab3deploybsuir.herokuapp.com/']
 
 # Application definition
 
